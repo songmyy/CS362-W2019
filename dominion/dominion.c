@@ -32,7 +32,6 @@ int* kingdomCards(int k1, int k2, int k3, int k4, int k5, int k6, int k7,
   k[8] = k9;
   k[9] = k10;
   return k;
-	.
 }
 
 int initializeGame(int numPlayers, int kingdomCards[10], int randomSeed,
