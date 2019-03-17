@@ -1,0 +1,22 @@
+Running tests:
+unittest1.c:
+Checking coins for card type 4 and points 0
+PASS: updateCoins: sum of coins (1)
+Checking coins for card type 5 and points 0
+PASS: updateCoins: sum of coins (2)
+Checking coins for card type 6 and points 0
+PASS: updateCoins: sum of coins (3)
+TEST SUCCESS
+File 'dominion.c'
+Lines executed:43.64% of 566
+Creating 'dominion.c.gcov'
+
+unittest2.c:
+PASS: isGameOver: no more cards in supply(1)
+PASS: isGameOver: province cards all used (1)
+PASS: isGameOver: cards not all used - did not end (0)
+TEST SUCCESS
+File 'dominion.c'
+Lines executed:43.64% of 566
+Creating 'dominion.c.gcov'
+
